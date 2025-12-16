@@ -1,0 +1,9 @@
+# robots.txt for Key To Home Property Management
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kthpropertymanagement.com/sitemap.xml
+
+# Crawl-delay (optional, be nice to servers)
+Crawl-delay: 1
